@@ -18,7 +18,7 @@
         </license>
     </licenses>
 
-    <name>fbit-digitalgov-libs-utils</name>
+    <name>DIGITALGOV Libs Utils</name>
     <description>Mòdulo Utils de fbit digitalgov libs</description>
 
     <properties>
