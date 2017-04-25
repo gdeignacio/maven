@@ -40,7 +40,6 @@
             <groupId>org.fundaciobit.administraciodigital</groupId>
             <artifactId>fbit-digitalgov-libs-helium-commons</artifactId>
             <version>1.0.0</version>
-            <scope>provided</scope>
         </dependency>
 
         <dependency>
