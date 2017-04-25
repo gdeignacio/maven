@@ -34,7 +34,6 @@
             <artifactId>fbit-digitalgov-libs-utils</artifactId>
             <version>1.0.0</version>
             <scope>provided</scope>
-
         </dependency>
 
         <dependency>
@@ -49,6 +48,7 @@
             <artifactId>helium-ws-client</artifactId>
             <version>3.1</version>
             <type>jar</type>
+            <scope>provided</scope>
         </dependency>
         
     </dependencies>
