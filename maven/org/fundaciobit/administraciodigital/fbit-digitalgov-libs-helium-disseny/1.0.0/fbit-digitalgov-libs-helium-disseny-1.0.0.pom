@@ -47,7 +47,7 @@
           <artifactId>helium-disseny</artifactId>
           <version>3.1</version>
          <type>jar</type>
-         <scope>provided</scope>
+         <scope>compile</scope>
       </dependency>
 
       <dependency>
